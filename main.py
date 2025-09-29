@@ -1,4 +1,4 @@
 def kata():
-  print ('hello word')
+    print("hello word")
 
-print(kata())
+kata()
