@@ -1,4 +1,9 @@
-def kata():
-    print("hello word")
+def hello():
+    print("hi")
 
-kata()
+
+def bye():
+    print("bye")
+
+
+print(hello())
